@@ -1,0 +1,15 @@
+C:\Users\matheuscs\Desktop\CalculadoraConsole\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.exe
+C:\Users\matheuscs\Desktop\CalculadoraConsole\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.deps.json
+C:\Users\matheuscs\Desktop\CalculadoraConsole\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.runtimeconfig.json
+C:\Users\matheuscs\Desktop\CalculadoraConsole\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.dll
+C:\Users\matheuscs\Desktop\CalculadoraConsole\Calculadora\Calculadora\bin\Debug\net6.0\ref\Calculadora.dll
+C:\Users\matheuscs\Desktop\CalculadoraConsole\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.pdb
+C:\Users\matheuscs\Desktop\CalculadoraConsole\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.csproj.AssemblyReference.cache
+C:\Users\matheuscs\Desktop\CalculadoraConsole\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheuscs\Desktop\CalculadoraConsole\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\matheuscs\Desktop\CalculadoraConsole\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfo.cs
+C:\Users\matheuscs\Desktop\CalculadoraConsole\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\matheuscs\Desktop\CalculadoraConsole\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.dll
+C:\Users\matheuscs\Desktop\CalculadoraConsole\Calculadora\Calculadora\obj\Debug\net6.0\ref\Calculadora.dll
+C:\Users\matheuscs\Desktop\CalculadoraConsole\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.pdb
+C:\Users\matheuscs\Desktop\CalculadoraConsole\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.genruntimeconfig.cache
